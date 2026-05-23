@@ -58,23 +58,66 @@
 
 # 💼 Experience
 
-## 🏢 Stackly — Python Developer / AI Engineer
+## 🏢 Stackly — Python Developer & AI Engineer *(Current)*
 
-* Working on AI-driven applications, forecasting systems, and intelligent automation solutions
-* Developing scalable backend APIs and AI integrations
-* Building analytics dashboards and machine learning workflows
-* Working with Python, Flask, FastAPI, React, and AI technologies
+📍 India | Feb 2025 – Present | Full Time
 
-## 🧠 DRDO Research Internship
+* Developing AI-powered enterprise applications and intelligent automation systems
+* Building scalable backend APIs using Flask and FastAPI
+* Working on forecasting systems, anomaly detection, and analytics platforms
+* Developing full-stack AI solutions with React and Python
+* Integrating AI models, APIs, and real-time dashboards into production systems
+* Collaborating on scalable AI-driven business solutions and data workflows
 
-* Worked on predictive strain sensors using AI & ML techniques
-* Gained practical exposure to Machine Learning workflows and research-based AI applications
-* Collaborated on exploratory AI-driven predictive systems
+### Technologies Used
 
-## 📊 Data Science & AI Projects
+Python • Flask • FastAPI • Gen AI • SQL • APIs • Artificial Intelligence • Machine Learning • Deep Learning 
 
-* Built multiple AI-powered systems involving forecasting, anomaly detection, NLP, recommendation systems, and analytics dashboards
-* Hands-on experience in end-to-end ML lifecycle including EDA, model training, deployment, and visualization
+---
+
+## 🏢 Baba Inspection and Technical Services Pvt. Ltd. — Software Engineer with GenAI
+
+📍 India | Feb 2025 – Present | Freelancer
+
+* Developing GenAI-powered enterprise automation applications
+* Deploying AI models using Flask APIs and cloud infrastructure
+* Built AI-driven automation workflows using n8n for data integration and real-time orchestration
+* Developed customized Odoo applications for business workflows
+* Worked on intelligent automation and AI-enhanced operational systems
+
+### Technologies Used
+
+Python • Flask • Generative AI • n8n • Odoo • Cloud Computing
+
+---
+
+## 🏢 Intellipaat Software Solutions Pvt. Ltd. — Data Scientist Intern
+
+📍 Bengaluru, India | Jan 2024 – Feb 2025
+
+* Built and deployed machine learning models for predictive analytics
+* Worked on data engineering and preprocessing pipelines
+* Used Python, SQL, and cloud services for scalable AI workflows
+* Developed analytical solutions using ML algorithms and visualization tools
+
+### Technologies Used
+
+Python • SQL • Machine Learning • Cloud Platforms • Data Analytics
+
+---
+
+## 🏢 DRDO – GTRE — Research Data Analyst Intern
+
+📍 Bengaluru, India | Jun 2023 – Sep 2023
+
+* Designed ML-based predictive strain sensors with improved prediction accuracy
+* Worked on data modeling, analysis, and validation workflows
+* Collaborated with cross-functional research teams on AI-based predictive systems
+* Gained exposure to real-world AI research and engineering methodologies
+
+### Technologies Used
+
+Machine Learning • Python • Predictive Analytics • Data Modeling
 
 ---
 
