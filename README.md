@@ -191,11 +191,11 @@ Python • Flask • SQLite • APScheduler
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chandramouli2812\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=chandramouligarikina00\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandramouli2812\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chandramouligarikina00\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandramouli2812\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandramouligarikina00\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -227,7 +227,7 @@ Python • Flask • SQLite • APScheduler
 
 # 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=chandramouli2812\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![](https://komarev.com/ghpvc/?username=chandramouligarikina00\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
